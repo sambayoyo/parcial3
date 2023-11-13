@@ -11,7 +11,7 @@ pyodbc
 Instalación:
 
 Clona el repositorio con el siguiente comando:
-git clone https://github.com/tuusuario/registro-ventas-flask.git
+git clone [https://github.com/tuusuario/registro-ventas-flask.git](https://github.com/sambayoyo/parcial3.git)
 cd registro-ventas-flask
 
 Instala las dependencias necesarias:
