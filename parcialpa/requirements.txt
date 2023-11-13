@@ -1,0 +1,6 @@
+Flask==2.0.1
+--render_template
+--request
+--redirect
+--url_for
+pyodbc==4.0.30
